@@ -1,0 +1,15 @@
+1 Bob Mike 3 140.23
+2 Matt Benjamin 4 90
+3 Keller Helen 8 98.15
+4 Tim Mary 4 23.1
+5 James Alan 3 47.77
+6 William Carla 6 94.92
+7 Mathew Robin 7 53.7
+8 Jacob Tom 6 79.98
+9 Nathan Norman 9 230.1
+10 Nick Nate 8 537
+11 Ethan Mary 6 87.9
+12 Kate Helen 2 20.8
+13 Benjamin Alan 4 90.44
+14 John Jamie 2 89.88
+15 Bob Annie 3 100
